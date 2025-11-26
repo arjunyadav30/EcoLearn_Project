@@ -4,13 +4,12 @@ EcoLearn is a gamified environmental education platform designed to engage stude
 
 ## Project Contributor 
 
-Anmol Sharma - 
-Aradhy Raghuwanshi - 
-Arjun Yadav - 
-Prachi Ahirwar -
-Neelu Thakur - 
-Bittu Kumar -
-
+Anmol Sharma - <br>
+Aradhy Raghuwanshi - <br>
+Arjun Yadav - <br>
+Prachi Ahirwar - <br>
+Neelu Thakur - <br>
+Bittu Kumar - 
 
 ## File Structure
 
